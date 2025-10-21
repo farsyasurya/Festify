@@ -8,12 +8,14 @@ Aplikasi ini menyediakan endpoint untuk autentikasi **Admin** dan **Peserta (Use
 - 🧍‍♂️ **User (Peserta)** → mendaftar dan melihat lomba yang tersedia  
 ----
 
-## 📂 Struktur Folder
+```
 ├── controllers/
 ├── middleware/
 ├── routes/
 ├── types/
 └── app.ts
+```
+
 
 
 ## 🚀 Tech Stack
