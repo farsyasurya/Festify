@@ -31,5 +31,16 @@ Aplikasi ini menyediakan endpoint untuk autentikasi **Admin** dan **Peserta (Use
 
 ---
 
+## Cara Menjalankan Project
+1. npm install
+2. npm run dev
+
+## Dependensi Utama
+- Express
+- PostgreSQL
+- Multer
+- TypeScript
+
+
 
 
