@@ -23,18 +23,10 @@ Aplikasi ini menyediakan endpoint untuk autentikasi **Admin** dan **Peserta (Use
 
 ## 📂 Struktur Folder
 
-src/
 ├── controllers/
-│   ├── auth.ts
-│   ├── competitions.ts
-│   └── participant.ts
 ├── middleware/
 ├── routes/
 ├── types/
-├── utils/
-├── app.ts
-prisma/
-├── migrations/
-└── schema.prisma
-.env
+└── app.ts
+
 
