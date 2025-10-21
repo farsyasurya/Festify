@@ -9,12 +9,12 @@ Aplikasi ini menyediakan endpoint untuk autentikasi **Admin** dan **Peserta (Use
 ----
 
 ## 📂 Struktur Folder
-
-| controllers/
-| middleware/
-|routes/
-|types/
+├── controllers/
+├── middleware/
+├── routes/
+├── types/
 └── app.ts
+
 
 ## 🚀 Tech Stack
 
